@@ -1,0 +1,65 @@
+.card{
+    background-color: rgba(213, 255, 255, 1);
+    height: 100%;
+}
+
+
+
+.ingresoNombre{
+    border: 2px solid rgba(93, 193, 185, 1);
+    width: 100%;
+    height: 35px;
+    border-radius: 4px;
+    margin-bottom: 30px;
+    text-indent: 10px;
+}
+
+.ingresoApelli{
+    border: 2px solid rgba(93, 193, 185, 1);
+    width: 100%;
+    height: 35px;
+    border-radius: 4px;
+    margin-bottom: 30px;
+    text-indent: 10px;
+}
+.ingresoTelefono{
+    border: 2px solid rgba(93, 193, 185, 1);
+    width: 100%;
+    height: 35px;
+    border-radius: 4px;
+    margin-bottom: 30px;
+    text-indent: 10px;
+}
+.ingresoemail{
+    border: 2px solid rgba(93, 193, 185, 1);
+    width: 100%;
+    height: 35px;
+    border-radius: 4px;
+    margin-bottom: 30px;
+    text-indent: 10px;
+}
+.ingresocontra{
+    border: 2px solid rgba(93, 193, 185, 1);
+    width: 100%;
+    height: 35px;
+    border-radius: 4px;
+    margin-bottom: 30px;
+    text-indent: 10px;
+}
+.confirmarcontra{
+    border: 2px solid rgba(93, 193, 185, 1);
+    width: 100%;
+    height: 35px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    text-indent: 10px;
+}
+.botoA{
+    background-color: rgba(37, 138, 132, 1);
+    height: 30px;
+    border-radius: 4px;
+    width: 10%;
+    border: 0;
+    margin-bottom: 15px;
+    
+}
